@@ -20,8 +20,18 @@ This is a simple weather application that allows users to search for the weather
 * JavaScript
 * OpenWeatherMap API (API Key Required)
 
+
 ## Note:
-An OpenWeatherMap API key is required to use the weather data functionality. You can create a free API key at https://openweathermap.org/api.
+The weather data functionality in this code is currently not working. This is because the API key used to access weather data from OpenWeatherMap has been removed from the script.js file.
+
+An API key is required to authenticate your application and grant access to the OpenWeatherMap API. You can obtain a free API key by creating an account on https://openweathermap.org/api.
+
+Next Steps:
+
+* Create a free OpenWeatherMap account at https://openweathermap.org/api.
+* Generate an API key from your account dashboard.
+* Replace the placeholder value (795cc082bd43086c8b99230bdb1a423d) in the script.js file with your own API key.
+* Save the changes and refresh the application in your web browser.
 
 ## Contributing:
 Feel free to fork this repository and contribute your improvements!
