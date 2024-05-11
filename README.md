@@ -30,7 +30,7 @@ Next Steps:
 
 * Create a free OpenWeatherMap account at https://openweathermap.org/api.
 * Generate an API key from your account dashboard.
-* Replace the placeholder value (795cc082bd43086c8b99230bdb1a423d) in the script.js file with your own API key.
+* Replace the placeholder text in the script.js file with your own API key.
 * Save the changes and refresh the application in your web browser.
 
 ## Contributing:
